@@ -364,6 +364,32 @@
                                 "verse": "[H]There wasn't a [E]day that you weren't by my [H]side, there [gis]wasn't a [E]day that you let me [H]fall, all of my [E]life your love has been [H]true, all of my live[cis] I will worship [H]you."
                             }
                         ]
+                    },
+                    {
+                        "name": "You unravel me",
+                        "id": "YouUnravelMe",
+                        "lyrics": [
+                            {
+                                "VerseTitle": "Verse 1",
+                                "verse": "[B]You unravel me with a melody, You [Es]surround me [F]with a [B]song, of deliverance from my enemies, 'til [Es]all my [F]fears are [B]gone"
+                            },
+                            {
+                                "VerseTitle": "Chorus",
+                                "verse": "I'm no [Es]longer a [F]slave to [B]fear, I [g]am a [F]child of [B]God. (2x)"
+                            },
+                            {
+                                "VerseTitle": "Verse 2",
+                                "verse": "From my [B]mother's womb, You have chosen [d]me, [Es]love has [F]called my [B]name, I've been born again, into your [d]family, your [Es]blood flows [F]through my [B]veins"
+                            },
+                            {
+                                "VerseTitle": "Bridge 1",
+                                "verse": "I am surrounded, by the arms of the father. I am surrounded, by songs of deliverance. We've been liberated, from our bondage, we're the sons and the daughters, let us sing our freedom."
+                            },
+                            {
+                                "VerseTitle": "Bridge 2",
+                                "verse": "[g]You split the [F]sea so I could [B]walk right [Es]through it, ([g]You drowned my [F]fears / [g]My fears were [F]drowned) in perfect [B]love[Es][g], You rescued me[F] and I will stand[B] and [Es]sing, I [g]am a [F]child of [B]God[Es]."
+                            }
+                        ]
                     }
                 ]
             }
