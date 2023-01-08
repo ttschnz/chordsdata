@@ -313,6 +313,37 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Blatt 3",
+                "songs": [
+                    {
+                        "name": "Let the king",
+                        "id": "LetTheKing",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "Let the [A]king of my heart be the [D]mountain where I [A]run, the [fis]fountain I drink [E]from, oh, he [D]is my [A]song.\nLet the [A]king of my heart be the [D]shadow where I [A]hide, the [fis]ransom for my [E]life, oh, he [D]is my [A]song."
+                            },
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "You are [fis]good, [E]good, [D]ohh[A]h. (4x)"
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "Let the [A]king of my heart be the [D]wind inside my [A]sails, the [fis]anchor in the [E]waves, oh, he [D]is my [A]song. Let the [A]king of my heart be the [D]fire inside my [A]veins, the [fis]echo of my [E]days, oh, he [D]is my [A]song."
+                            },
+                            {
+                                "verseTitle": "Bridge",
+                                "verse": "[A]You're never gonna let, never gonna let me down. (8x)"
+                            },
+                            {
+                                "verseTitle": "",
+                                "verse": "When the [fis]night is [E]holding [D]onto [fis]me, [h]God is [D]holding [A]on."
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
