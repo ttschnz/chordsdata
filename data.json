@@ -237,6 +237,20 @@
                             }
                         ],
                         "order": [0, 1, 2, 1, 3, 4, 1]
+                    },
+                    {
+                        "name": "Jesus, Jesus",
+                        "id": "JesusJesus",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "[A]Jesus, [cis]Jesus, [D]Name über allen [Cis]Namen ist der Name [fis]Jesus, [D]Jesus, [A]Jesus[D]"
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "[E]Denn [D]Er allein ist siegreich aufer[fis]standen und [H]Er regiert in Herrlich[D]keit[E]"
+                            }
+                        ]
                     }
                 ]
             }
