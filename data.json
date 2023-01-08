@@ -279,6 +279,20 @@
                                 "verse": "Er[C]barmen fliesst wie ein [G]grosser [e]Strom und [a]Heilung [D]strömt aus deiner [G]Hand, [C]Menschen mit [D]Wunden sind [G]sicher bei [e]dir,[a] keiner [C]ist wie [D]du.[C][D]"
                             }
                         ]
+                    },
+                    {
+                        "name": "A minere Stell",
+                        "id": "AMinereStell",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "[a]A miner [D]Stell hesch du es Lide uf di [e]gno, \na miner [C]Stell hesch dini [G]Händ dürbore [D][A]Lah, a miner [D]Stell hesch mini Sünde uf di [e]gno, a miner [C]Stell hesch du dis [G]eigne Läbe [D]glah.[A]"
+                            },
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "[D]Jesus dini [G]Liebi isch so [A]unändlech [D]gross, wie [h]lieb, wie [e]lieb musch du mi [A]ha; i stah [D]da un [G]stuune bloss [A]und bätte di [D]aa, i [h]bätte [e]di mi [A]Jesus [D]aa."
+                            }
+                        ]
                     }
                 ]
             }
