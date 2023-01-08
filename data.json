@@ -251,6 +251,20 @@
                                 "verse": "Denn [D]Er allein ist siegreich aufer[fis]standen und [H]Er regiert in Herrlich[D]keit[E]"
                             }
                         ]
+                    },
+                    {
+                        "name": "Ich will",
+                        "id": "IchWill",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "Ich [G]will [H7]auf dich [e]schaun [C]vorwärts [G]gehn, dir [D7]vertraun,\n will [G]sehn, [H7]wie du [e]siehst, [C]will [G]hörn, wie du [D]hörst."
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "[C]Du bist das [D]wahre Lebens[G]wasser. [C]Wer von dir [D]trinkt, hat niemehr [G]Durst. Du hast ein [D]Herz für alle [G]Menschen, wer bei dir [D]wohnt ist nie [G]allein."
+                            }
+                        ]
                     }
                 ]
             }
