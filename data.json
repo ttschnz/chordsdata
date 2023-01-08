@@ -293,6 +293,24 @@
                                 "verse": "[D]Jesus dini [G]Liebi isch so [A]unändlech [D]gross, wie [h]lieb, wie [e]lieb musch du mi [A]ha; i stah [D]da un [G]stuune bloss [A]und bätte di [D]aa, i [h]bätte [e]di mi [A]Jesus [D]aa."
                             }
                         ]
+                    },
+                    {
+                        "name": "Jesus ig liebe di",
+                        "id": "JesusIgLiebeDi",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "[D]Jesus, i [G]liebe Di, i [A]liebe Di geng [D]meh. [D]Jesus i [G]liebe Di, i [A]liebe Di geng wie [D]meh, luegi [G]zrügg uf was isch [A]gsi, chani [D]Dini Liebi [G]gseh. Jesus i [e]liebe Di, [A]liebe Di geng wie [D]meh."
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "[D]Herr i [G]vertroue Dir, [A]vertroue Dir geng [D]meh. [D]Herr i [G]vertroue Dir, [A]vertroue Dir geng wie [D]meh, Dr glimmend [G]Docht löschisch nid [A]us, Du hesch mi [fis]lieb, gisch mi nid [G]uf. Herr i [e]vertroue Dir, [A]vertroue Dir geng [D]meh."
+                            },
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "Wo isch e [A]Chönig so wie Du, wo für [G]mi alles würd [D]gäh, wo dr [A]Wäg wählt wo ihm z [G]lide nid [D]erspart. Wo der [A]Tod am Chrütz ertreit, wo mi zum [G]Läbe befreit.[D] Wo e [h]nöje Aafang [A]müglech macht für [G]mi. Wo e [h]nöje Aafang [A]müglech macht für [G]mi. I [A]liebe di geng wie [D]meh."
+                            }
+                        ]
                     }
                 ]
             }
