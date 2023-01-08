@@ -265,6 +265,20 @@
                                 "verse": "[C]Du bist das [D]wahre Lebens[G]wasser. [C]Wer von dir [D]trinkt, hat niemehr [G]Durst. Du hast ein [D]Herz für alle [G]Menschen, wer bei dir [D]wohnt ist nie [G]allein."
                             }
                         ]
+                    },
+                    {
+                        "name": "Keiner ist wie du",
+                        "id": "KeinerIstWieDu",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "[G]Keiner [D]ist wie [C]du,[G][C]niemand [G]sonst berührt mein [a]Herz so wie [D]du, [G]wo auch [D]immer ich noch [e]suchte o [C]Herr, es [G]bleibt, keiner [D]ist wie [C]du[G]."
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "Er[C]barmen fliesst wie ein [G]grosser [e]Strom und [a]Heilung [D]strömt aus deiner [G]Hand, [C]Menschen mit [D]Wunden sind [G]sicher bei [e]dir,[a] keiner [C]ist wie [D]du.[C][D]"
+                            }
+                        ]
                     }
                 ]
             }
