@@ -191,7 +191,23 @@
                         "lyrics": [
                             {
                                 "verseTitle": "Chorus",
-                                "verse": "Du bisch dr Chünig, du bisch dr Herr, ja für di isch gar nüt z schwär. Wüll a dim Chrütz uf Golgatha, hesch du für mi dis Läbe gla."
+                                "verse": "[cis]Du bisch dr Chünig, \ndu bisch dr [A]Herr, \nja für [E]di \nisch gar nüt z sch[A]wär. \nWüll a dim [D]Chrütz\nuf [A]Golgatha,\nhesch du für [E]mi\ndis Läbe [A]gla."
+                            },
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "Dir isch ke [E]Bärg z höch, \ndir isch kes [A]Tal z töif, \ndu hesch [D]alles [E]i der Hand[A]"
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "Dir isch ke [E]Lascht z schwär, \ndir isch ke [A]Schuld z gross, \ndu hesch [D]alles [E]für mi treit[A]"
+                            },
+                            {
+                                "verseTitle": "Verse 3",
+                                "verse": "Dir isch ke [E]Macht z gross, \ndir isch ke [A]Feid z starch, \ndini [D]Herrschaft [E]het keis [A]Änd"
+                            },
+                            {
+                                "verseTitle": "Bridge",
+                                "verse": "Oh [D]Hallelujah, oh chlatsch id [A]Händ, sini [E]Liebi het kes [A]Änd"
                             }
                         ]
                     }
