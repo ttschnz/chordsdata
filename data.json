@@ -207,9 +207,36 @@
                             },
                             {
                                 "verseTitle": "Bridge",
-                                "verse": "Oh [D]Hallelujah, oh chlatsch id [A]Händ, sini [E]Liebi het kes [A]Änd"
+                                "verse": "Oh [D]Hallelujah, \noh chlatsch id [A]Händ,\n sini [E]Liebi het kes [A]Änd."
                             }
                         ]
+                    },
+                    {
+                        "name": "Dert wo d Strasse",
+                        "id": "DertWoDStrasse",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "[A]Dert wo d Strasse goldig lüchte\nvo der Herrlechkeit vom Lamm,\n dert chöi mir einisch higah\n u dert wohne ja für geng"
+                            },
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "Wäge [E]dir, wäge [A]dir, wäg dire [E]Liebi u dim [A]Bluet"
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "[A]A dem Ort gits niemeh Schmärze,\n niemeh Träne, niemeh Truur.\n Niemeh Sünde, niemeh Chrankheit, \nniemeh Unrächt u ke Tod"
+                            },
+                            {
+                                "verseTitle": "Bridge",
+                                "verse": "Oh mini [D] Sünde si vergäh\n und [A] ig darf ewig läbe, \ndi [E]Hoffnig töif i mir, hani [A]wäge dir,\n oh i [D] wirde di mau gseh\n u [A]mit dir chönne tanze, \nir [E]Stadt vo üsem Gott, wäge [A]dir."
+                            },
+                            {
+                                "verseTitle": "Verse 3",
+                                "verse": "[A]A dem Ort, findsch dr Fride,\n und e Fröid wo blibt für geng. Dert hets Wii, wo nie usgeit,\n s git es riise Hochzitsfescht."
+                            }
+                        ],
+                        "order": [0, 1, 2, 1, 3, 4, 2]
                     }
                 ]
             }
