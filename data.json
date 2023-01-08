@@ -186,9 +186,14 @@
                         ]
                     },
                     {
-                        "name": "Du bisch dr chünig",
+                        "name": "Du bisch dr Chünig",
                         "id": "DuBischDrChünig",
-                        "lyrics": []
+                        "lyrics": [
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "Du bisch dr Chünig, du bisch dr Herr, ja für di isch gar nüt z schwär. Wüll a dim Chrütz uf Golgatha, hesch du für mi dis Läbe gla."
+                            }
+                        ]
                     }
                 ]
             }
