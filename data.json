@@ -342,6 +342,28 @@
                                 "verse": "When the [fis]night is [E]holding [D]onto [fis]me, [h]God is [D]holding [A]on."
                             }
                         ]
+                    },
+                    {
+                        "name": "Faithful to the End",
+                        "id": "FaithfulToTheEnd",
+                        "lyrics": [
+                            {
+                                "verseTitle": "Verse 1",
+                                "verse": "We're [H]heaven-spun creations, his Pride and adoration, [cis]treasures woven by his [E]love.\nHis [H]careful hads they hold us, safe within His promise, [cis]of calling and of [E]destiny."
+                            },
+                            {
+                                "verseTitle": "Chorus",
+                                "verse": "[H]I will sing of all [fis]you've done, [H]I'll remember how [E]far you carried me, [H]from beginning [cis]until the end,[gis] you are faithful, [E]faithful to the end"
+                            },
+                            {
+                                "verseTitle": "Verse 2",
+                                "verse": "A [H]fathers heart that's for me, a never ending story, of [cis]love that's always chasing [E]me.\nHis [H]kindness overwhelming, and hope for me unending, [cis]he's never given up on [E]me."
+                            },
+                            {
+                                "verseTitle": "Bridge",
+                                "verse": "[H]There wasn't a [E]day that you weren't by my [H]side, there [gis]wasn't a [E]day that you let me [H]fall, all of my [E]life your love has been [H]true, all of my live[cis] I will worship [H]you."
+                            }
+                        ]
                     }
                 ]
             }
